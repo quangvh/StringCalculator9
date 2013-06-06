@@ -12,7 +12,6 @@ public class Calculator{
         String delimiter = null;
         String repNewLine = null;
         String negativeStr = "";
-        String delimiterString = ",|\n";
         if (numbers.isEmpty()) {
             return 0;
         } else {
